@@ -1,0 +1,102 @@
+<html lang="en">
+
+<head>
+    <meta charSet="utf-8" />
+    <title>NewDark90's Links</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+
+        :root {
+        /* Typography */
+        --ratio: 1.3;
+        --scale0: 1rem;
+
+        --scale1: calc(var(--scale0) * var(--ratio));
+        --scale2: calc(var(--scale1) * var(--ratio));
+        --scale3: calc(var(--scale2) * var(--ratio));
+        --scale4: calc(var(--scale3) * var(--ratio));
+        --scale5: calc(var(--scale4) * var(--ratio));
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            background-color: #c8e1ff;
+            font-size: 14px;
+            font-family:Arial, Helvetica, sans-serif;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            color: #333
+        }
+        
+        h1 { font-size: var(--scale5); margin: calc(var(--scale5) / 2) 0; }
+        h2 { font-size: var(--scale4); margin: calc(var(--scale4) / 2) 0; }
+        h3 { font-size: var(--scale3); margin: calc(var(--scale3) / 2) 0; }
+        h4 { font-size: var(--scale2); margin: calc(var(--scale2) / 2) 0; }
+        h5 { font-size: var(--scale1); margin: calc(var(--scale1) / 2) 0; }
+        h6 { font-size: var(--scale0); margin: calc(var(--scale0) / 2) 0; }
+
+        main {
+            width: 100%;
+            max-width: 1000px;
+            margin: 3vh auto;
+            background-color: #f4f4f4;
+            border-radius: 25px;
+            border: 2px solid #555;
+            text-align: center;
+            height:94vh;
+            display: flex;
+            flex-direction: column;
+        }
+        section {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        ul, ol {
+            list-style-type: none;
+        }
+        li {
+            margin: 2em;
+        }
+        a {
+            font-size: 1.5em;
+            text-decoration: none;
+            color: #250ef5;
+        }
+        a:hover, a:active {
+            color: #0f5e06;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <header>
+            <h1>Zachary Dow</h1>
+        </header>
+        <section>
+            <h3>Resume Links</h3>
+            <ul>
+                <li>
+                    <a href="zachary-dow-resume.html">
+                        Web Page
+                    </a>
+                </li>
+                <li>
+                    <a href="zachary-dow-resume.pdf">
+                        PDF File
+                    </a>
+                </li>
+            </ul>
+        </section>
+    </main>
+</body>
+
+</html>
