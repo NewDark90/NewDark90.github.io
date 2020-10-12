@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Zachary Dow",
+    "label": "Web Application Developer",
+    "email": "mr.zachary.dow@gmail.com",
+    "phone": "(231) 818-1557",
+    "website": "",
+    "summary": "Web application developer with over 9 years of experience working on all layers of the stack. Deeply passionate about Typescript, Node, React, and .NET. Highly flexible with a strong desire to learn and keep up with best practices, tools, and languages. Collaborates well with others regardless of technical background.",
+    "location": {
+      "address": "4710 40th Avenue SW\n#632",
+      "postalCode": "98116",
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "WA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Neighborly",
+      "position": "Web Application Developer",
+      "url": "https://www.neighborly.com",
+      "startDate": "2014-05-01",
+      "summary": "Handled many developer roles from managing public facing CMS systems, internal and external HTTP APIs, web applications, background services, and CI/CD devops. Moderate emphasis toward the front end of the stack.",
+      "highlights": [
+        "Lead a website redesign and rewrite of mollymaid.com with ASP.NET MVC in Sitecore.",
+        "Created RESTful APIs with Entity Framework and OData to create dynamic endpoints.",
+        "Picked up Typescript and Sass to make simpler, modular front end code.",
+        "Implemented AngularJS, and later StencilJS for an internal portal website.",
+        "Built windows services in C# to synchronize data with vendor apis.",
+        "Transitioned gift certificate e-commerce system to another payment provider.",
+        "Set up a CI/CD pipeline in Azure Devops for builds and deployments."
+      ]
+    },
+    {
+      "name": "CareTech Solutions",
+      "position": ".Net Web Developer",
+      "url": "https://www.caretech.com/",
+      "startDate": "2012-09-01",
+      "endDate": "2014-05-01",
+      "summary": "Enhanced and maintained websites for hospital clients on a proprietary ASP.Net WebForms CMS system. Communicated frequently with clients about issues and enhancements to their websites.",
+      "highlights": [
+        "Worked in a 4-6 person developer team and aided other teams in need",
+        "Completed larger scale projects including redesigns, CMS upgrades, and new features",
+        "Learned Linq to Sql, Mercurial, Responsive Design, and JQuery"
+      ]
+    },
+    {
+      "name": "Spider Development",
+      "position": ".Net Web Developer",
+      "url": "http://www.spiderdevelopment.com/",
+      "startDate": "2011-09-01",
+      "endDate": "2012-09-01",
+      "summary": "Hired as an employee after a ten week internship. Started off creating ASP.Net e-commerce sites for clients with Spider Development. Shifted focus to upgrading SnappyEats.com site from Classic ASP to ASP.NET.",
+      "highlights": [ ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Baker College",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-01",
+      "endDate": "2014-06-01",
+      "gpa": "3.87",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "2015 IT Member of the Year",
+      "date": "2015-12-31",
+      "awarder": "Neighborly",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "TypeScript",
+        "C#",
+        "JavaScript",
+        "TSQL / SQL",
+        "HTML / HTML5",
+        "Sass / Scss / CSS",
+        "HTTP"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "React",
+        "StencilJS",
+        ".Net",
+        "Jest",
+        "Entity Framework",
+        "ASP.NET WebAPI / MVC",
+        "Kendo UI",
+        "OData",
+        "AngularJS 1.x"
+      ]
+    },
+    {
+      "name": "Build / Package Tools",
+      "level": "",
+      "keywords": [
+        "Webpack",
+        "Rollup",
+        "Npm",
+        "NuGet",
+        "NSwag",
+        "Gulp"
+      ]
+    },
+    {
+      "name": "Development Tools / Environments",
+      "level": "",
+      "keywords": [
+        "Visual Studio Code",
+        "Visual Studio",
+        "NodeJS",
+        "Git",
+        "Azure Devops",
+        "IIS",
+        "SQL Server"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [
+    {
+      "reference": "Available Upon Request",
+      "name": ""
+    }
+  ]
+}
