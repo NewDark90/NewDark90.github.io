@@ -4,12 +4,12 @@
     "label": "Web Application Developer",
     "email": "mr.zachary.dow@gmail.com",
     "phone": "(231) 818-1557",
-    "website": "",
-    "summary": "Web application developer with over 9 years of experience working on all layers of the stack. Deeply passionate about Typescript, Node, React, and .NET. Highly flexible with a strong desire to learn and keep up with best practices, tools, and languages. Collaborates well with others regardless of technical background.",
+    "website": "http://zachary-dow.crypto",
+    "summary": "Web application developer with many years of experience working on all layers of the stack. Strong desire to learn and keep up with best practices, tools, and languages. Collaborates well with others regardless of technical background.",
     "location": {
       "address": "",
-      "postalCode": "98116",
-      "city": "Seattle",
+      "postalCode": "98052",
+      "city": "Redmond",
       "countryCode": "US",
       "region": "WA"
     },
@@ -21,12 +21,13 @@
       "position": "Web Application Developer",
       "url": "https://www.neighborly.com",
       "startDate": "2014-05-01",
-      "summary": "Handled many developer roles from managing public facing CMS systems, internal and external HTTP APIs, web applications, background services, and CI/CD devops. Moderate emphasis toward the front end of the stack.",
+      "endDate": "2022-03-01",
+      "summary": "Handled many developer roles from managing public facing CMS systems, internal and external HTTP APIs, web applications, background services, and CI/CD devops. Moderate emphasis toward the front end development.",
       "highlights": [
-        "Lead a website redesign and rewrite of mollymaid.com with ASP.NET MVC in Sitecore.",
-        "Created RESTful APIs with Entity Framework and OData to create dynamic endpoints.",
+        "Lead a website redesign and rewrite of mollymaid.com.",
         "Picked up Typescript and Sass to make simpler, modular front end code.",
-        "Implemented AngularJS, and later StencilJS for an internal portal website.",
+        "Implemented Stencil / React based web components.",
+        "Created RESTful APIs with Entity Framework and OData to create dynamic endpoints.",
         "Built windows services in C# to synchronize data with vendor apis.",
         "Transitioned gift certificate e-commerce system to another payment provider.",
         "Set up a CI/CD pipeline in Azure Devops for builds and deployments."
@@ -81,53 +82,28 @@
       "name": "Languages",
       "level": "",
       "keywords": [
-        "TypeScript",
+        "TypeScript / JavaScript",
         "C#",
-        "JavaScript",
         "TSQL / SQL",
         "HTML / HTML5",
-        "Sass / Scss / CSS",
+        "SASS / SCSS / CSS",
         "HTTP"
       ]
     },
     {
-      "name": "Frameworks",
+      "name": "Frameworks / Etc",
       "level": "",
       "keywords": [
         "React",
-        "StencilJS",
-        ".Net",
+        "Stencil",
+        "Node.js",
+        ".NET",
+        "Git",
         "Jest",
         "Entity Framework",
         "ASP.NET WebAPI / MVC",
-        "Kendo UI",
-        "OData",
-        "AngularJS 1.x"
-      ]
-    },
-    {
-      "name": "Build / Package Tools",
-      "level": "",
-      "keywords": [
-        "Webpack",
         "Rollup",
-        "Npm",
-        "NuGet",
-        "NSwag",
-        "Gulp"
-      ]
-    },
-    {
-      "name": "Development Tools / Environments",
-      "level": "",
-      "keywords": [
-        "Visual Studio Code",
-        "Visual Studio",
-        "NodeJS",
-        "Git",
-        "Azure Devops",
-        "IIS",
-        "SQL Server"
+        "Webpack"
       ]
     }
   ],
